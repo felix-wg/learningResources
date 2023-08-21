@@ -4,18 +4,17 @@ I'm creating this resource mostly for myself to combine all my learning resource
 (DISCLAIMER: I'm not the owner of any of these resources. All the rights of the linked resources go to the respective owners.)
 
 ### Contents
-[[#General Resources]]
-- [[#https //roadmap.sh Roadmap.sh]]
+[General Resources](#general-resources)
 
-[[#Language Specific]]
+[Language Specific](#language-specific)
 
-[[#Workflows]]
+[Workflows](#workflows)
 
-[[#Clean Code etc.]]
+[Clean Code etc.](#clean-code-etc)
 
 ## General Resources
 
-#### [[https://roadmap.sh|Roadmap.sh]]
+### [Roadmap.sh](https://roadmap.sh)
 Raodmap.sh provides role based and skill based roadmaps for developers. Found that pretty useful for my Front-End learning path but could also be very useful for many other things.
 
 ## Language Specific
