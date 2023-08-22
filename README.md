@@ -1,4 +1,4 @@
-# Coding Resources
+# Learning material for coding
 
 I'm creating this resource mostly for myself to combine all my learning resources I used for coding in one place. But I think this also could be useful for other people who want to learn coding. Feel free to let me know if I should add other resources. 
 
