@@ -36,3 +36,11 @@ Learned and used Gitflow in my first internship. Never used any other way of wor
 
 ### When is a function too long?
 A while ago I tended to write functions that were way to long. So a colleague send me [this](https://stackoverflow.com/questions/475675/when-is-a-function-too-long) Stackoverflow topic which helped me alot.
+
+## Cool tools
+
+### Generate Github profile Read.me
+A cool tool to generate a Read.me for a github profile. [Link](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
+### Generate repo Read.me
+A usefull tool to generate Read.me files for github repos. [Link](https://readme.so/de)
