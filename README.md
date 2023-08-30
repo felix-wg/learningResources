@@ -28,16 +28,23 @@ I learned some HTML, CSS and Javascript in school but [W3Schools](https://www.w3
 But the point where everything was easier is when I switched out Javascript for Typescript in my Skillset. For Typescript I just used their own [Docs](https://www.typescriptlang.org/) to learn that.
 
 ### Frameworks
+react, nextjs
 
 ## Backend
 
+## Other languages
+C, Python, C++, Java
+
 ## Workflows
+
+## Git
 
 ### Gitflow
 Learned and used [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) in my first internship. Never used any other way of working with git. I found it very easy to work with Gitflow.
 
 
 ## Clean Code etc.
+
 
 ### When is a function too long?
 A while ago I tended to write functions that were way to long. So a colleague send me [this](https://stackoverflow.com/questions/475675/when-is-a-function-too-long) Stackoverflow topic which helped me alot.
