@@ -23,6 +23,12 @@ I'm creating this resource mostly for myself to combine all my learning resource
 
 ## Frontend
 
+### Web Development
+I learned some HTML, CSS and Javascript in school but [W3Schools](https://www.w3schools.com/) is the resource leveled my web development skills up. They show a really easy introduction to web development and I still use this website if I need some help regarding HTML or CSS.
+But the point where everything was easier is when I switched out Javascript for Typescript in my Skillset. 
+
+### Frameworks
+
 ## Backend
 
 ## Workflows
