@@ -18,8 +18,8 @@ I'm creating this resource mostly for myself to combine all my learning resource
 
 ## General Resources
 
-### [Roadmap.sh](https://roadmap.sh)
-Raodmap.sh provides role based and skill based roadmaps for developers. Found that pretty useful for my Front-End learning path but is also very useful for other learning paths.
+### Roadmap.sh
+[Roadmap.sh](https://roadmap.sh) provides role based and skill based roadmaps for developers. Found that pretty useful for my Front-End learning path but is also very useful for other learning paths.
 
 ## Frontend
 
@@ -27,9 +27,8 @@ Raodmap.sh provides role based and skill based roadmaps for developers. Found th
 
 ## Workflows
 
-### [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
-Learned and used Gitflow in my first internship. Never used any other way of working with git. I found it very easy to work with Gitflow.
-
+### Gitflow
+Learned and used [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) in my first internship. Never used any other way of working with git. I found it very easy to work with Gitflow.
 
 
 ## Clean Code etc.
