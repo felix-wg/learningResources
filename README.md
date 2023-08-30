@@ -1,4 +1,4 @@
-# Learning material for coding
+# Coding Resources
 
 I'm creating this resource mostly for myself to combine all my learning resources I used for coding in one place. But I think this also could be useful for other people who want to learn coding. Feel free to let me know if I should add other resources. 
 
@@ -56,5 +56,8 @@ A cool tool to generate a Read.me for a github profile. [Link](https://rahuldkja
 
 ### Generate repo Read.me
 A usefull tool to generate Read.me files for github repos. [Link](https://readme.so/de)
+
+### Create beautiful code slides
+[Snappify](https://snappify.com) lets you create beautiful code slides to present to everyone for free!
 
 ## All Links
