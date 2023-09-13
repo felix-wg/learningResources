@@ -48,7 +48,7 @@ react, nextjs coming soon
 ## Other languages
 
 ### C
-C was the first ever language I learned many years ago. I actually just google of a book about it back then. So I found the [C HowTo](https://www.c-howto.de/c-programmieren-lernen/) book. It provided a good foundation for my carrer as a developer. It's in german, so I don't know if it's useful for you. But for german speaking people I can recommend it.
+C was the first ever language I learned many years ago. I actually just googled of a book about it back then. So I found the [C HowTo](https://www.c-howto.de/c-programmieren-lernen/) book. It provided a good foundation for my carrer as a developer. It's in german, so I don't know if it's useful for you. But for german speaking people I can recommend it.
 
 Python, C++, Java coming soon
 
