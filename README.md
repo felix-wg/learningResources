@@ -27,15 +27,15 @@ Also note that this will always be work in progress... so don't expect any compl
 
 ### Web Development
 I learned some HTML, CSS and Javascript in school but [W3Schools](https://www.w3schools.com/) is the resource that leveled up my web development skills. They provide a really easy introduction to web development and I still use this website if I need some help regarding HTML or CSS.
-But the point where everything was easier is when I switched out Javascript for Typescript in my Skillset. For Typescript I just used their own [Docs](https://www.typescriptlang.org/) to learn that.
+But the point where everything was easier is when I switched out Javascript for Typescript in my Skillset. For Typescript I just used their own  to learn that.
 
 ### Frameworks
-react, nextjs
+react, nextjs coming soon
 
 ## Backend
 
 ## Other languages
-C, Python, C++, Java
+C, Python, C++, Java coming soon
 
 ## Workflows
 
@@ -65,3 +65,7 @@ A usefull tool to generate Read.me files for github repos. [Link](https://readme
 ## Books
 
 ## All Links
+[Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+[Roadmap.sh](https://roadmap.sh)
+[W3Schools](https://www.w3schools.com/)
+[Typescript Docs](https://www.typescriptlang.org/)
