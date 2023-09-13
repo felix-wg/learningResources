@@ -38,7 +38,7 @@ Also note that this will always be work in progress... so don't expect any compl
 
 ### Web Development
 I learned some HTML, CSS and Javascript in school but [W3Schools](https://www.w3schools.com/) is the resource that leveled up my web development skills. They provide a really easy introduction to web development and I still use this website if I need some help regarding HTML or CSS.
-But the point where everything was easier is when I switched out Javascript for Typescript in my Skillset. For Typescript I just used their own  to learn that.
+But the point where everything was easier is when I switched out Javascript for Typescript in my Skillset. For Typescript I just used their own [Docs](https://www.typescriptlang.org/) to learn that.
 
 ### Frameworks
 react, nextjs coming soon
@@ -55,6 +55,7 @@ Python, C++, Java coming soon
 ## Workflows
 
 ## Git
+I actually mostly only use `git add .` , `git commit -m "message"` and `git push` but I also know some other commands like `git pull` or `git checkout`. I really started using it in my internship so I don't really have a learning resource for it. I just googled the commands I needed. 
 
 ### Gitflow
 Learned and used [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) in my first internship. Never used any other way of working with git. I found it very easy to work with Gitflow.
@@ -80,7 +81,12 @@ A usefull tool to generate Read.me files for github repos. [Link](https://readme
 ## Books
 
 ## All Links
-[Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
-[Roadmap.sh](https://roadmap.sh)
-[W3Schools](https://www.w3schools.com/)
-[Typescript Docs](https://www.typescriptlang.org/)
+- [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+- [Roadmap.sh](https://roadmap.sh)
+- [W3Schools](https://www.w3schools.com/)
+- [Typescript Docs](https://www.typescriptlang.org/)
+- [C HowTo](https://www.c-howto.de/c-programmieren-lernen/)
+- [When is a function too long?](https://stackoverflow.com/questions/475675/when-is-a-function-too-long)
+- [gh-profile-readme-generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- [Readme.so](https://readme.so/de)
+- [Snappify](https://snappify.com)
