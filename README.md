@@ -14,6 +14,7 @@ Also note that this will always be work in progress... so don't expect any compl
   - [Frontend](#frontend)
     - [Web Development](#web-development)
     - [Frameworks](#frameworks)
+      - [React](#react)
   - [Backend](#backend)
   - [Other languages](#other-languages)
     - [C](#c)
@@ -41,7 +42,9 @@ I learned some HTML, CSS and Javascript in school but [W3Schools](https://www.w3
 But the point where everything was easier is when I switched out Javascript for Typescript in my Skillset. For Typescript I just used their own [Docs](https://www.typescriptlang.org/) to learn that.
 
 ### Frameworks
-react, nextjs coming soon
+
+#### React
+I actually wanted to learn react for a long time but my first deep dive into react came with my internship. I had to learn the react basics in a really short time and for that used reacts [Quick Start Guide](https://react.dev/learn) and some random youtube videos :D. I mostly watched some of [these](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) videos.
 
 ## Backend
 
