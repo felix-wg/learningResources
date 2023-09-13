@@ -68,10 +68,10 @@ C was the first ever language I learned many years ago. I actually just googled 
 After C I thought I should learn C++ because it's the next step. So I just googled a book about it and found [this](https://www.amazon.de/programmieren-lernen-professionell-anwenden-L-C3-B6sungen-dp-344647689X/dp/344647689X/ref=dp_ob_title_bk) book. The chapters I've read were pretty good and I learned a lot from it. But I didn't read the whole book because I switched to Java after that. Note that this book is also in german.
 
 ### Python
-Python was more like a side project for me. I just wanted to learn it to write some fun small scripts. But Python is a good language things like Math or Machine Learning. This I also learned mostly from [W3Schools](https://www.w3schools.com/python/default.asp). After that I started with little projects and googled everything else I didn't know at that point.
+Python was more like a side project for me. I just wanted to learn it to write some fun small scripts. But Python is a good language for things like Math or Machine Learning. This I also learned mostly from [W3Schools](https://www.w3schools.com/python/default.asp). After that I started with little projects and googled everything else I didn't know at that point.
 
 ### Java
-I had to learn some Java for university. For that I bought a Java [book](https://www.amazon.de/Java-Kompendium-Professionell-programmieren-lernen/dp/3966450534/ref=sr_1_1?__mk_de_DE=ÅMÅŽÕÑ&crid=2YNW57L9MH2AJ&keywords=java+kompendium&qid=1694629231&s=books&sprefix=java+kompendium%2Cstripbooks%2C80&sr=1-1) from Amazon. It was a good book but I didn't read it completely. I just read the chapters I needed for university. But I think it's a good book for beginners.
+I had to learn some Java for university. For that I bought a Java [book](https://www.amazon.de/Java-Kompendium-Professionell-programmieren-lernen/dp/3966450534/ref=sr_1_1?__mk_de_DE=ÅMÅŽÕÑ&crid=2YNW57L9MH2AJ&keywords=java+kompendium&qid=1694629231&s=books&sprefix=java+kompendium%2Cstripbooks%2C80&sr=1-1) from Amazon. It was a good book but I didn't read it completely. I just read the chapters I needed for university. But I think it's a good book for beginners. Note that this book is also in german.
 
 ### Rust
 Right now I am learning Rust. I will added some resources here further down the line.
