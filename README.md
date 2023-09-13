@@ -4,6 +4,8 @@ I'm creating this resource mostly for myself to combine all my learning resource
 
 ❌(DISCLAIMER: I'm not the owner of any of these resources. All the rights of the linked resources go to the respective owners.)
 
+Also note that this will always be work in progress... so don't expect any completed parts here.
+
 ### Contents
 - [Coding Resources](#coding-resources)
     - [Contents](#contents)
