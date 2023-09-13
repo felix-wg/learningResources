@@ -12,11 +12,21 @@ Also note that this will always be work in progress... so don't expect any compl
   - [General Resources](#general-resources)
     - [Roadmap.sh](#roadmapsh)
   - [Frontend](#frontend)
+    - [Web Development](#web-development)
+    - [Frameworks](#frameworks)
   - [Backend](#backend)
+  - [Other languages](#other-languages)
   - [Workflows](#workflows)
+  - [Git](#git)
     - [Gitflow](#gitflow)
   - [Clean Code etc.](#clean-code-etc)
     - [When is a function too long?](#when-is-a-function-too-long)
+  - [Cool tools](#cool-tools)
+    - [Generate Github profile Read.me](#generate-github-profile-readme)
+    - [Generate repo Read.me](#generate-repo-readme)
+    - [Create beautiful code slides](#create-beautiful-code-slides)
+  - [Books](#books)
+  - [All Links](#all-links)
 
 ## General Resources
 
