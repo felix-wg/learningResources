@@ -75,6 +75,7 @@ I had to learn some Java for university. For that I bought a Java [book](https:/
 
 ### Rust
 [A half hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) by Amos Wenger (fasterthanlime)
+
 Right now I am learning Rust. I will added some resources here further down the line.
 
 ## Workflows
