@@ -74,6 +74,7 @@ Python was more like a side project for me. I just wanted to learn it to write s
 I had to learn some Java for university. For that I bought a Java [book](https://www.amazon.de/Java-Kompendium-Professionell-programmieren-lernen/dp/3966450534/ref=sr_1_1?__mk_de_DE=ÅMÅŽÕÑ&crid=2YNW57L9MH2AJ&keywords=java+kompendium&qid=1694629231&s=books&sprefix=java+kompendium%2Cstripbooks%2C80&sr=1-1) from Amazon. It was a good book but I didn't read it completely. I just read the chapters I needed for university. But I think it's a good book for beginners. Note that this book is also in german.
 
 ### Rust
+[A half hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust) by Amos Wenger (fasterthanlime)
 Right now I am learning Rust. I will added some resources here further down the line.
 
 ## Workflows
