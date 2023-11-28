@@ -88,6 +88,7 @@ Learned and used [Gitflow](https://www.atlassian.com/git/tutorials/comparing-wor
 ## Clean Code etc.
 
 
+
 ### When is a function too long?
 A while ago I tended to write functions that were way to long. So a colleague send me [this](https://stackoverflow.com/questions/475675/when-is-a-function-too-long) Stackoverflow topic which helped me alot.
 
